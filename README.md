@@ -19,5 +19,27 @@ Think about how often you use the software and how much it supports you and only
 
 Take your trading to the next level with TradeFusion Lite, the essential tool for modern day traders.
 
-## Description
+## Installation
 
+1. unpack the zip archive in a directory of your choice (e.g. C:\TradeFusion Lite)
+2. start the file "TradeFusion Lite.exe"
+3. positively confirm or ignore any Windows and/or firewall warnings The software is very simple, contains no adverts or spyware and is therefore not malware. If you have any questions or doubts, please send me an e-mail.
+4. important: TradeFusion Lite starts at the top left of the main screen: 
+
+   ![Image Description](assets/mainwindow1.png)  
+
+5. sign in to MOMO and TradingView
+
+## Usage
+* TradeFusion Lite memorises the position of the open windows and restores the saved positions when the application is started.
+* F1 - moves the selected or activated window to the top left corner of the main screen
+* F5 - updates (refresh/reload) the content of the selected window (only MOMO or TradingView, the very small main window cannot be updated)
+* Left-click on an icon in MOMO automatically selects the icon in TradingView
+* Right-click on an icon in MOMO shows the familiar MOMO ContextMenu  
+  
+  ![Image Description](assets/contextMenuMomo.png)
+
+For fans:
+These are two small separate windows that navigate to the MOMO or TradingView sites using CEF-Sharp. CEF.Sharp is a Chromium plugin. The software simply listens to the REST calls, extracts the clicked symbol and sends it to the TradingView window.
+
+Translated with DeepL.com (free version)
