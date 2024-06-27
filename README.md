@@ -23,13 +23,20 @@ Take your trading to the next level with TradeFusion Lite, the essential tool fo
 
 1. download and unpack the [zip archive](https://github.com/NjalNilum/trade-fusion/raw/main/releases/TradeFusion%20Lite.v.0.0.1.zip?download=) in a directory of your choice (e.g. C:\TradeFusion Lite)
    1. please be patient, due to the use of certain software components (CefSharp) the zip archive has become quite large
-2. start the file "TradeFusion Lite.exe"
-3. positively confirm or ignore any Windows and/or firewall warnings The software is very simple, contains no adverts or spyware and is therefore not malware. If you have any questions or doubts, please send me an e-mail.
-4. important: TradeFusion Lite starts at the top left of the main screen: 
+2. start TradeFusion Lite by double-clicking on the "TradeFusion Lite.exe" file
+3. install .Net Desktop Runtime, if not already done (simply follow the instructions presented) 
+
+   <img src="assets/dotnetruntime.png" alt="drawing" width="350"/> 
+
+1. positively confirm or ignore any Windows and/or firewall warnings The software is very simple, contains no adverts or spyware and is therefore not malware. If you have any questions or doubts, please send me an e-mail.
+
+    <img src="assets/windowswarning.png" alt="drawing" width="250"/> 
+
+2. important: TradeFusion Lite starts at the top left of the main screen: 
 
    ![Image Description](assets/mainwindow1.png)  
 
-5. sign in to MOMO and TradingView
+3. sign in to MOMO and TradingView
 
 ## Usage
 * TradeFusion Lite memorises the position of the open windows and restores the saved positions when the application is started.
